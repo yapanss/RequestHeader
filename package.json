@@ -1,0 +1,26 @@
+{
+  "name": "header_parser",
+  "version": "1.0.0",
+  "description": "A freecodecamp project",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "express": "^5.0.0-alpha.2",
+    "cors": "^2.8.1"
+  },
+  "engines": {
+    "node": "4.4.5"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/yapanss/RequestHeader.git"
+  },
+  "author": "Assi Yapo",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/yapanss/RequestHeader/issues"
+  },
+  "homepage": "https://github.com/yapanss/RequestHeader#readme"
+}
